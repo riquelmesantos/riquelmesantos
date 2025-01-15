@@ -19,8 +19,8 @@
 ---
 
 ### 📬 Entre em Contato
-📧 Email: [seuemail@dominio.com](mailto:seuemail@dominio.com)  
-🔗 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+📧 Email: [riquelme.n.s201@gmail.com](mailto:seuemail@dominio.com)  
+🔗 LinkedIn: [linkedin.com/in/riquelmesantos](https://linkedin.com/in/riquelmesantos)
 
 ---
 
