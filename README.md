@@ -1,6 +1,6 @@
 # Olá, sou [Riquelme]! 👋
 
-🎓 **Mestrando em Estatística e graduado em Matemática**.
+🎓 **Mestrando em Estatística e graduado em Matemática**.  
 🔍 Focado em **inferência em processos estocásticos**, com grande interesse em **ciência de dados** e **modelos probabilísticos**.  
 💡 Adoro explorar a interseção entre estatística, programação e dados para resolver problemas complexos.
 
