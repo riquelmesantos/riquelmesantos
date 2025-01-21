@@ -1,5 +1,7 @@
 # Olá, sou [Riquelme]! 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="150px" max-width="150px" width="150px" align="right">
+
 🎓 **Mestrando em Estatística e graduado em Matemática**.  
 🔍 Focado em **inferência em processos estocásticos**, com grande interesse em **ciência de dados** e **modelos probabilísticos**.  
 💡 Adoro explorar a interseção entre estatística, programação e dados para resolver problemas complexos.
