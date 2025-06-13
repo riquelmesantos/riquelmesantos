@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="150px" align="right">
 
-🎓 **Mestrando em Estatística** (Des-UFSCar/ICMC-USP) com formação prévia em **Matemática** (UnB), interessado em aplicações teóricas e computacionais da estatística.  
+🎓 **Mestrando em Estatística** (Des-UFSCar/ICMC-USP) graduado em **Matemática** (UnB), interessado em aplicações teóricas e computacionais da estatística.  
 🔬 Pesquisa atual focada em **inferência para processos estocásticos**, com ênfase em modelos com memória variável.  
 📊 Interessado na aplicação de **ciência de dados**, **modelagem probabilística** e **aprendizado estatístico** para a análise de fenômenos complexos.
 
